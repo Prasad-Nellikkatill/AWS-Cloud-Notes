@@ -1,0 +1,31 @@
+Instance families
+
+    C – Compute
+
+    D – Dense storage
+
+    F – FPGA
+
+    G – GPU
+
+    Hpc – High performance computing
+
+    I – I/O
+
+    Inf – AWS Inferentia
+
+    M – Most scenarios
+
+    P – GPU
+
+    R – Random access memory
+
+    T – Turbo
+
+    Trn – AWS Tranium
+
+    U – Ultra-high memory
+
+    VT – Video transcoding
+
+    X – Extra-large memory
